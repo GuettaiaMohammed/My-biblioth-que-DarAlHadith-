@@ -1,0 +1,48 @@
+-------------------------
+User: ::1 - April 27, 2018, 9:17 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 2:03 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 2:46 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 3:15 pm
+Username: user_
+UserID: 9
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 3:21 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 3:26 pm
+Username: user_
+UserID: 9
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 3:30 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 27, 2018, 3:37 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS

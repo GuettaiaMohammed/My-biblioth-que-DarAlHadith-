@@ -1,0 +1,12 @@
+-------------------------
+User: ::1 - April 22, 2018, 6:58 pm
+Username: PP
+UserID: 5
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 22, 2018, 7:00 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS

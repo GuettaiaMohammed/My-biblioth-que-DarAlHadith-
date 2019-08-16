@@ -1,0 +1,73 @@
+-------------------------
+User: ::1 - April 20, 2018, 4:04 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:06 am
+Username: coolxd512
+Attempt: FAILED
+-------------------------
+User: ::1 - April 20, 2018, 4:06 am
+Username: alguennoun
+-------------------------
+User: ::1 - April 20, 2018, 4:06 am
+Username: pp
+UserID: 5
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:14 am
+Username: pp
+-------------------------
+User: ::1 - April 20, 2018, 4:14 am
+Username: pp
+UserID: 5
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:15 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 3:18 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 3:18 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:09 pm
+Username: pp
+-------------------------
+User: ::1 - April 20, 2018, 4:09 pm
+Username: pp
+UserID: 5
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:11 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:17 pm
+Username: dd
+UserID: 12
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 20, 2018, 4:19 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS

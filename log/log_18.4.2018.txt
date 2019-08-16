@@ -1,0 +1,16 @@
+-------------------------
+User: ::1 - April 18, 2018, 8:22 pm
+Username: azre
+Attempt: FAILED
+-------------------------
+User: ::1 - April 18, 2018, 8:22 pm
+Username: zrfg
+UserID: 13
+UserRole: user
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 18, 2018, 8:23 pm
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS

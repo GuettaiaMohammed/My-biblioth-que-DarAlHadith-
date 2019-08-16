@@ -1,0 +1,44 @@
+.panel{
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: 1em;
+}
+.content_cont{
+    padding: 2em;
+    width: 70%;
+    margin: auto;
+    background-color: rgba(233,233,233,.8);
+}
+.content_cont > div{
+    width: auto;
+    margin: auto;
+    text-align: center;
+}
+.textContent >*{
+    text-align: right;
+}
+.textimg{
+    
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.textimg img{
+    
+    height: 300px;;
+    width:450px;
+}
+.textimg video{
+    height: 300px;;
+    width:450px;
+}
+
+@media only screen and (max-width:1000px) {
+    
+    .textimg{
+        display: block;
+    }
+    
+}

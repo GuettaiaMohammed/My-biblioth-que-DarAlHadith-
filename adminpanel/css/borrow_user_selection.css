@@ -1,0 +1,53 @@
+.content {
+    
+    all: unset;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 2px;
+    min-width: 70%;
+    max-width: 70%;
+}
+
+.container2{
+    background-color: rgba(227, 227, 227, .95);
+    padding: 10px;
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    
+}
+.container2 p{
+    margin: auto 0;
+    font-size: 18px;
+    font-weight: 600;
+    color: #112233;
+}
+
+
+.daynumber{
+    margin: auto 0 ; 
+    width: auto;
+    border: none;
+    padding: 5px;
+    
+    font-size: 17px;
+    background-color: rgba(239, 239, 239, .65);
+    color: #112233;
+}
+
+.borrowsbtn{
+    margin: auto;
+    width: 50% ;
+}
+.panel{
+    border-bottom: 1px solid rgba(0,0,0,.3);
+}
+@media only screen and (max-width:1000px) {
+    .content{
+        
+        max-width: 90%;
+    }
+}

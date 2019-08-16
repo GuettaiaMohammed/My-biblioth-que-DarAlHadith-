@@ -1,0 +1,24 @@
+-------------------------
+User: ::1 - April 26, 2018, 6:28 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 26, 2018, 6:36 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 26, 2018, 9:18 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS
+-------------------------
+User: ::1 - April 26, 2018, 9:18 am
+Username: admin
+UserID: 1
+UserRole: admin
+Attempt: SUCCESS

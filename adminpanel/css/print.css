@@ -1,0 +1,24 @@
+
+@page {
+  size: A4;
+}
+.page{
+/*    margin: 10mm 10mm 10mm 10mm;*/
+    text-align: center;
+}
+body {
+        font-family: 'Cairo', sans-serif;
+        background: #fff;
+    }
+.head{
+    font-size: 25px;
+}
+.sub-head{
+    font-size: 22px;
+}
+.content{
+    font-size: 18px;
+    text-align: right;
+}
+@media print {
+}

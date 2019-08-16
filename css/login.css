@@ -1,0 +1,102 @@
+::-webkit-input-placeholder {
+    color: black;
+}
+
+:-ms-input-placeholder {
+    color: black;
+}
+
+::placeholder {
+    color: black;
+}
+
+.search-submit{
+        margin: 0 auto;
+        margin-top: 1em;
+    }
+.login-form-container{
+    width: 50vh;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    
+}
+
+.login-buttons{
+    width: 100%;
+    margin: 0 auto;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    
+}
+
+.login-submit{
+    margin-right: 20px;
+    width: 100%;
+}
+.register{
+    margin-right: 20px;
+    width: 100%
+    
+}
+.username-input{
+    
+    margin-bottom: 1em;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.password-input{
+    margin-bottom: 2em;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-submit input{
+    background-color: #66CC99;
+    width: 100%;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.register input{
+    background-color: #FC575E;
+    
+    width: 100%;
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.login-submit input:hover{
+    background-color: #80C997;
+    color: white;
+}
+.register input:hover{
+    background-color: #F26863;
+    color: white;
+}
+
+
+
+.search-input input {
+    all: unset;
+    width: 100%;
+    font-size: 23px;
+    color: white;
+    background: rgba(255, 255, 255, 0.2);
+    border: none;
+    border-bottom: 1px solid #66CA97;
+    border-radius: 0px;
+}
+.login-form-container{
+    margin-top:5em;
+    padding: 2em;
+    background-color: rgba(25,25,25,.3);
+}
+h3{
+    margin: 0px;
+    margin-bottom: 2em;
+}

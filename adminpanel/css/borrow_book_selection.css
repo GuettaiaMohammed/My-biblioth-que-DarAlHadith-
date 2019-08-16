@@ -1,0 +1,17 @@
+#submit-book{
+    background-color: #00A77B;
+}
+#submit-book:hover{
+    background-color: rgba(0,167,123,.7);
+}
+
+.content {
+    
+    all: unset;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-column-gap: 2px;
+    min-width: 70%;
+    max-width: 70%;
+}
